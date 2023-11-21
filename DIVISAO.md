@@ -8,8 +8,8 @@
  - obter tamanho da empresa -> Rafael
  - Home office -> Ingrid
 
- - inserir dados -> Pedro
- - remover dados -> Pedro
+ - inserir dados -> Pedro - Falta try except
+ - remover dados -> Pedro - Falta try except
 
 
  - retornar média salarial, maior salário ou menor salário
